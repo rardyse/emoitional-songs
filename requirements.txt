@@ -1,0 +1,7 @@
+deepface
+tf-keras
+opencv-python<5
+paho-mqtt
+pygame
+
+

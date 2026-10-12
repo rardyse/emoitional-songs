@@ -1,0 +1,9 @@
+{
+  "happy":    ["happy.mp3"],
+  "fear":     ["demonio.mp3"],
+  "surprise": ["canyouhearthemusic.mp3"], 
+  "sad":      ["homage.mp3", "ykwim.mp3", "tiddy.mp3", "mrsmagic.mp3", "money.mp3"], 
+  "angry":    ["heart.mp3"],
+  "neutral":  ["lofi.mp3"],
+  "disgust":  ["beurk.mp3"]
+}
