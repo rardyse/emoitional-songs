@@ -71,8 +71,8 @@ this will open three windows:
 - **DJ**
 - **Camera** (takes a few seconds to load DeepFace)
 
-choose then "a face expression" (for instance, smiling --> happy) and hold it for 2 seconds: the music starts
-press `q` in the camera window to quit!
+choose then "a face expression" (for instance, smiling --> happy) and hold it for 2 seconds
+the music will start (press `q` in the camera window to quit!)
 
 ## so... what's actually demo.bat ?
 
